@@ -1,0 +1,10 @@
+"""
+本框架主要使用excel读取各种操作和被操作的元素.
+添加logging模块 来确定用例优先级的报错
+basepage封装各种方法
+python + unnitest + xlrd + logging(待定) + configparser(读取url，账号，密码，) + HTMLtestrunner(待定)
+
+确定页面的操作，点击（click)<元素，下选列表，复选>，输入(send_keys),清空（clear)<登录输入框，搜索框>,弹窗内容处理
+
+
+"""
