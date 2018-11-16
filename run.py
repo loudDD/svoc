@@ -5,6 +5,7 @@ from HTMLTestRunner import HTMLTestRunner
 
 casepath = readConfig().getconfigvalue("path","casepath")
 reportpath = readConfig().getconfigvalue("path","reportpath")
+print(casepath)
 def run():
     case = unittest.defaultTestLoader.discover(casepath,pattern="test*.py")
     now = time.strftime("%Y-%m-%d %H_%M_%S")

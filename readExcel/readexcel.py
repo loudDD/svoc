@@ -35,11 +35,13 @@ class readExcel():
     def getvalue(self,row):
         value = self.sheetname.cell(row,5).value
         return value
-    def getexpect(self,row):
+    def getsleep(self,row):
         value = self.sheetname.cell(row,6).value
         return value
-    def gettime(self,row):
+    def getrunOrno(self,row):
         value = self.sheetname.cell(row,7).value
         return value
-
+    def getexpect(self,row):
+        value = self.sheetname.cell(row,8).value
+        return value
 

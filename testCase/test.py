@@ -19,13 +19,15 @@ class testsvoc(unittest.TestCase):
             action = str(readExcel().getact(i))
             typ = str(readExcel().gettype(i))
             data = str(readExcel().getdata(i))
-            time = int(readExcel().gettime(i))
+            tim = readExcel().getsleep(i)
+            runOrno = str(readExcel().getrunOrno(i))
             text = readExcel().getvalue(i)
+            if runOrno=="no":
+                continue
             if type(text)==float:
                 text = str(round(readExcel().getvalue(i)))
             expect = str(readExcel().getexpect(i))
-            print(text)
-            print(type(text))
+            print(type(typ))
             if action == "send_keys":
                 element = baseact.findelement(typ,data)
                 baseact.send_keys(element,text)
@@ -44,7 +46,8 @@ class testsvoc(unittest.TestCase):
                     print("用例%s" % (number) + title + "测试结果:" + "测试失败")
             else:
                 print("方法未识别")
-            sleep(time)
-
-            sleep(3)
+            if tim=="":
+                sleep(0)
+            else:
+                sleep(int(tim))
 

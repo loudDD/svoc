@@ -28,7 +28,7 @@ class POM(object):
             elif typ=="css":
                 element = self.driver.find_element_by_css_selector(data)
             else:
-                raise NameError("无法识别的定位方式" + str(typ))
+                raise NameError("无法识别的定位方式" , typ)
         except Exception:
             raise NameError("请重新输入！")
         return element
