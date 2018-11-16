@@ -1,9 +1,7 @@
 from selenium import webdriver
-<<<<<<< HEAD
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
-from config.readconfig import readConfig
-
+from svoc.config.readconfig import readConfig
 
 url=readConfig().getconfigvalue("url","ucUrl")
 class POM(object):
@@ -13,11 +11,6 @@ class POM(object):
             self.driver.get(url)
         except (Exception):
             raise NameError("Doesn't support well")
-
-
-
-
-
     def findelement(self,typ,data):
         try:
             if typ=="id" :
@@ -58,14 +51,3 @@ class POM(object):
         self.driver.execute_script(js)
     def quit(self):
         self.driver.quit()
-=======
-
-class basepage():
-    def __init__(self):
-        self.driver = webdriver.Chrome()
-
-    def click(self,elem):
-        method = elem[0]
-        element = elem[1]
-        self.driver.find_element(By=method,element)
->>>>>>> 18e09ec6ee5064675d078c4efa307a9bd20baf60

@@ -1,6 +1,5 @@
 import xlrd
-from config.readconfig import readConfig
-<<<<<<< HEAD
+from svoc.config.readconfig import readConfig
 
 file = readConfig()
 filepath = file.getconfigvalue("path","xlrdpath")
@@ -41,21 +40,6 @@ class readExcel():
         return value
     def gettime(self,row):
         value = self.sheetname.cell(row,7).value
-=======
-class readExcel():
-    def __init__(self,filepath=readConfig.getconfigvalue("xlrdpath","filepath")):
-        self.file = xlrd.open_workbook(filepath)
-        self.sheetname = self.file.sheet_by_index(0)
-        self.rows = self.sheetname.get_rows()
-    def getaction(self,col=0):
-        for i in self.rows:
-            row = i
-            value = self.sheetname.cell(row,col).value
-            return value
-    def getelem(self,row,col=1):
-        value = self.sheetname.cell(row,col).value
->>>>>>> 18e09ec6ee5064675d078c4efa307a9bd20baf60
         return value
-
 
 

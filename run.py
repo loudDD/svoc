@@ -1,4 +1,4 @@
-from config.readconfig import readConfig
+from svoc.config.readconfig import readConfig
 import unittest
 import time
 from HTMLTestRunner import HTMLTestRunner

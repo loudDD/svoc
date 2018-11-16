@@ -1,8 +1,8 @@
 import unittest
 from time import sleep
-from page.basepage import POM
-from config.readconfig import readConfig
-from readExcel.readexcel import readExcel
+from svoc.page.basepage import POM
+from svoc.config.readconfig import readConfig
+from svoc.readExcel.readexcel import readExcel
 
 
 lines = readExcel().get_lines()
