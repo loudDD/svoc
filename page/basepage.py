@@ -1,7 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
-from svoc.config.readconfig import readConfig
+from config.readconfig import readConfig
 
 url=readConfig().getconfigvalue("url","ucUrl")
 class POM(object):

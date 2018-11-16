@@ -5,7 +5,7 @@ import os
 
 projectpath = os.path.split(os.path.split(os.path.abspath(__file__))[0])[0]
 configpath = os.path.join(projectpath, r"config\config.ini")
-
+print(projectpath)
 
 class readConfig():
     def __init__(self):

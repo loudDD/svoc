@@ -1,5 +1,5 @@
 import xlrd
-from svoc.config.readconfig import readConfig
+from config.readconfig import readConfig
 
 file = readConfig()
 filepath = file.getconfigvalue("path","xlrdpath")
