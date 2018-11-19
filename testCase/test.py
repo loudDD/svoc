@@ -14,10 +14,11 @@ class testsvoc(unittest.TestCase):
     """
     继承unittest
     """
+
     def setUp(self):
         print("测试开始")
 
-    def test_svoc(self):
+    def test_svoc(self,):
         #测试用例
         for i in range(1, lines):
             runorno = str(readExcel().getrunOrno(i))
@@ -57,4 +58,4 @@ class testsvoc(unittest.TestCase):
                 sleep(0)
             else:
                 sleep(int(round(tim)))
-                print("time类型是：%s" %(type(tim)))
+
