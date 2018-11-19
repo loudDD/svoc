@@ -2,11 +2,11 @@ import xlrd
 from config.readconfig import readConfig
 
 file = readConfig()
-filepath = file.getconfigvalue("path","xlrdpath")
+FILEPATH = file.getconfigvalue("path","XlrdPath")
 
 class readExcel():
     def __init__(self):
-        self.file = xlrd.open_workbook(filepath)
+        self.file = xlrd.open_workbook(FILEPATH)
         self.sheetname = self.file.sheet_by_index(0)
         self.rows = self.sheetname.get_rows()
 
