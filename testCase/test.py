@@ -19,7 +19,8 @@ class testsvoc(unittest.TestCase):
         print("测试开始")
 
     def test_svoc(self,):
-        #测试用例
+        """测试用例
+        """
         for i in range(1, lines):
             runorno = str(readExcel().getrunOrno(i))
             if runorno == "no":
@@ -58,4 +59,3 @@ class testsvoc(unittest.TestCase):
                 sleep(0)
             else:
                 sleep(int(round(tim)))
-
