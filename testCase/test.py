@@ -53,9 +53,13 @@ class testsvoc(unittest.TestCase):
                     print("用例%s"%(number) + title + "测试结果:" + "测试通过")
                 else:
                     print("用例%s" % (number) + title + "测试结果:" + "测试失败")
+            elif action=="clear":
+                element=baseact.findelement(typ,data)
+                baseact.clear(element)
             else:
                 print("方法未识别")
             if tim == "":
                 sleep(0)
             else:
                 sleep(int(round(tim)))
+

@@ -47,6 +47,8 @@ class POM(object):
     def send_keys(self, element, text):
         """发送内容"""
         element.send_keys(text)
+    def clear(self,element):
+        element.clear()
 
 
     # def Act(self,element,action,value=None):
