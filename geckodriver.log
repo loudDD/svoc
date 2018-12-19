@@ -1,0 +1,69 @@
+1543805908220	mozrunner::runner	INFO	Running command: "D:\\软件\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.qMUFDMLEKG4C"
+1543805910232	Marionette	INFO	Listening on port 52070
+1543805910335	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=1442_27216_21124_26350_22160&req=2&csor=6&pwd=selen&cb=jQuery110209944805298617817_1543805911285&_=1543805911292, line 1: TypeError: jQuery110209944805298617817_1543805911285 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sel&json=1&p=3&sid=1442_27216_21124_26350_22160&req=2&csor=3&pwd=se&cb=jQuery110209944805298617817_1543805911285&_=1543805911289, line 1: TypeError: jQuery110209944805298617817_1543805911285 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=se&json=1&p=3&sid=1442_27216_21124_26350_22160&req=2&csor=2&pwd=s&cb=jQuery110209944805298617817_1543805911285&_=1543805911288, line 1: TypeError: jQuery110209944805298617817_1543805911285 is not a function
+[Parent 5220, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[Parent 5220, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chrd 2412, Chrome_ChildThread] WARNING: pipe error: 109: fomium/src/chromeile z:/build/build/src/ipc/common/ipc_channel/chromium/_win.cc, line 346
+src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2412, Chrome_ChildThread][Child 2248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2248, C[Parent 5220, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 61543805927843	Marionette	INFO	Stopped listening on port 52070
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543805940805	mozrunner::runner	INFO	Running command: "D:\\软件\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.aiUU1oPE4HCj"
+1543805941977	Marionette	INFO	Listening on port 52147
+1543805942431	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=26524_1429_21127_27244_22159&req=2&csor=5&pwd=sele&cb=jQuery110207716400028677869_1543805943325&_=1543805943331, line 1: TypeError: jQuery110207716400028677869_1543805943325 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=26524_1429_21127_27244_22159&req=2&csor=6&pwd=selen&cb=jQuery110207716400028677869_1543805943325&_=1543805943332, line 1: TypeError: jQuery110207716400028677869_1543805943325 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=26524_1429_21127_27244_22159&req=2&csor=4&pwd=sel&cb=jQuery110207716400028677869_1543805943325&_=1543805943330, line 1: TypeError: jQuery110207716400028677869_1543805943325 is not a function
+[Parent 7300, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7300, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi[Clhdi 9232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9232, [Parent 7300, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 98841543805954759	Marionette	INFO	Stopped listening on port 52147
+[GPU 78
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543805984560	mozrunner::runner	INFO	Running command: "D:\\软件\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.duj21NC4T0xc"
+1543805985728	Marionette	INFO	Listening on port 52221
+1543805986187	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1543805987296	Marionette	INFO	Stopped listening on port 52221
+[Child 11224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11224, Ch[Parent 2564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x580027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child 6676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6676[Parent 2564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10448, Chr
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[1543806011071	mozrunner::runner	INFO	Running command: "D:\\软件\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.fiCqcJzxmnu6"
+1543806012230	Marionette	INFO	Listening on port 52277
+1543806012696	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1543806013718	Marionette	INFO	Stopped listening on port 52277
+[Parent 3420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3628, Chrome_ChildThread] WARNING: pipe error: 109: [Child 7212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7212, Chrome[Parent 3420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10176, Chrome_ChildThread][GP
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+U
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

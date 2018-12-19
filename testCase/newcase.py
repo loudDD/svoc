@@ -1,12 +1,10 @@
 """通过遍历excel中没行的值，生成另类测试用例。缺陷：所有结果在一条用例中"""
 
 import unittest
-from time import sleep
-from page.basepage import POM
-from readExcel.readexcel import readExcel
-from config.readconfig import readConfig
-from HTMLTestRunner import HTMLTestRunner
-import sys
+
+from svoc.page.basepage import POM
+from svoc.readExcel.readexcel import readExcel
+from svoc.config.readconfig import readConfig
 
 casepath = readConfig().getconfigvalue("path","casepath")
 
@@ -28,7 +26,7 @@ class Test(unittest.TestCase):
             return case
 
 
-def testall(self,line):
+def test_all(self,line):
     for i in range(1,line):
         # runorno = str(readExcel().getrunOrno(i))
         # if runorno == "no":
