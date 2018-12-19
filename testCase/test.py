@@ -2,8 +2,8 @@
 
 import unittest
 from time import sleep
-from page.basepage import POM
-from readExcel.readexcel import readExcel
+from svoc.page.basepage import POM
+from svoc.readExcel.readexcel import readExcel
 
 
 lines = readExcel().get_lines()
@@ -25,7 +25,7 @@ class testsvoc(unittest.TestCase):
             runorno = str(readExcel().getrunOrno(i))
             if runorno == "no":
                 continue
-            number = readExcel().getnum(i)
+            number = int(readExcel().getnum(i))
             title = str(readExcel().gettitle(i))
             action = str(readExcel().getact(i))
             typ = str(readExcel().gettype(i))
@@ -58,7 +58,7 @@ class testsvoc(unittest.TestCase):
                 baseact.clear(element)
             else:
                 print("方法未识别")
-            if tim == "":
+            if tim is None:
                 sleep(0)
             else:
                 sleep(int(round(tim)))

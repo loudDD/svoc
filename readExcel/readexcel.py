@@ -1,6 +1,6 @@
 """读取excel文件，通过函数固定获取个属性"""
 import xlrd
-from config.readconfig import readConfig
+from svoc.config.readconfig import readConfig
 
 file = readConfig()
 FILEPATH = file.getconfigvalue("path", "xlrdPath")

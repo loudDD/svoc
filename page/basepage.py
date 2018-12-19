@@ -1,5 +1,5 @@
 from selenium import webdriver
-from config.readconfig import readConfig
+from svoc.config.readconfig import readConfig
 
 url = readConfig().getconfigvalue("url", "ucUrl")
 
