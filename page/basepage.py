@@ -1,5 +1,9 @@
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.join(os.getcwd(), "../..")))
+
 from selenium import webdriver
-from config.readconfig import readConfig
+from svoc.config.readconfig import readConfig
 
 url = readConfig().getconfigvalue("url", "ucUrl")
 
@@ -13,7 +17,7 @@ class POM(object):
             self.driver = webdriver.Chrome()
             self.driver.get(url)
         except Exception:
-            raise NameError("Doesn't support well")
+            print("Doesn't support well")
 
     def findelement(self, typ, data):
         """ 使用try来判断元素是否可识别；

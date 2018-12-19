@@ -1,1 +1,3 @@
-print("123123")
+import os
+import sys
+print(os.path.abspath(os.path.join(os.getcwd(), "../..")))
