@@ -2,10 +2,9 @@
 
 import unittest
 from time import sleep
+import ddt
 from svoc.page.basepage import POM
 from svoc.readExcel.readexcel import readExcel
-
-
 lines = readExcel().get_lines()
 baseact = POM()
 
