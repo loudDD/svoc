@@ -1,10 +1,21 @@
 """通过遍历excel中没行的值，生成另类测试用例。缺陷：所有结果在一条用例中"""
 
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.join(os.getcwd(), "../..")))
 import unittest
 from time import sleep
 import ddt
 from svoc.page.basepage import POM
 from svoc.readExcel.readexcel import readExcel
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+
+>>>>>>> 43b2ff29aaf9c6b7a7668bcef14bdb77f59dc50d
+
+>>>>>>> 85006b3aa102106796df21176f965a138847f6e4
 lines = readExcel().get_lines()
 baseact = POM()
 
