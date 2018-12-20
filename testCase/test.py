@@ -8,14 +8,8 @@ from time import sleep
 import ddt
 from svoc.page.basepage import POM
 from svoc.readExcel.readexcel import readExcel
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
 
->>>>>>> 43b2ff29aaf9c6b7a7668bcef14bdb77f59dc50d
 
->>>>>>> 85006b3aa102106796df21176f965a138847f6e4
 lines = readExcel().get_lines()
 baseact = POM()
 
