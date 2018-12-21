@@ -1,2 +1,0 @@
-def Pb():    
-    print("fefe")

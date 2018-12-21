@@ -1,8 +1,7 @@
 """通过遍历excel中没行的值，生成另类测试用例。缺陷：所有结果在一条用例中"""
 
 import sys
-import os
-sys.path.append(os.path.abspath(os.path.join(os.getcwd(), "../..")))
+sys.path.append("../")
 import unittest
 from time import sleep
 import ddt
@@ -60,6 +59,10 @@ class testsvoc(unittest.TestCase):
             elif action=="clear":
                 element=baseact.findelement(typ,data)
                 baseact.clear(element)
+                if result == expect:
+                    print("用例%s"%(number) + title+"测试结果:" + "测试通过")
+                else:
+                    print("用例%s"%(number) + title + "测试结果:" + "测试失败")
             else:
                 print("方法未识别")
             if tim is None:
