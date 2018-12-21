@@ -4,7 +4,6 @@ import sys
 sys.path.append("../")
 import unittest
 from time import sleep
-import ddt
 from svoc.page.basepage import POM
 from svoc.readExcel.readexcel import readExcel
 
@@ -24,6 +23,7 @@ class testsvoc(unittest.TestCase):
     def test_svoc(self,):
         """测试用例
         """
+
         for i in range(1, lines):
             runorno = str(readExcel().getrunOrno(i))
             if runorno == "no":
