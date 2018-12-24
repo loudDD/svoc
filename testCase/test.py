@@ -1,6 +1,11 @@
 """通过遍历excel中没行的值，生成另类测试用例。缺陷：所有结果在一条用例中"""
 
+<<<<<<< HEAD
 
+=======
+import sys
+sys.path.append("../")
+>>>>>>> 30335d43f047605d167ffc255c59e0b779f4f0db
 import unittest
 from time import sleep
 from svoc.page.basepage import POM
@@ -22,6 +27,7 @@ class testsvoc(unittest.TestCase):
     def test_svoc(self,):
         """测试用例
         """
+
         for i in range(1, lines):
             runorno = str(readExcel().getrunOrno(i))
             if runorno == "no":
@@ -57,6 +63,10 @@ class testsvoc(unittest.TestCase):
             elif action=="clear":
                 element=baseact.findelement(typ,data)
                 baseact.clear(element)
+                if result == expect:
+                    print("用例%s"%(number) + title+"测试结果:" + "测试通过")
+                else:
+                    print("用例%s"%(number) + title + "测试结果:" + "测试失败")
             else:
                 print("方法未识别")
             if tim is None:

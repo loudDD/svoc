@@ -3,7 +3,9 @@ run文件：读取用例路径，报告路径，通过报告路径+自定义文�
 使用unittest.defaultTestLoader.discover来发现用例路径中的用例
 HTMLtestrunner生成最终报告
 """
-
+import sys
+import os
+sys.path.insert(0,os.path.abspath(os.path.dirname(os.getcwd())))
 import unittest
 import time
 from HTMLTestRunner import HTMLTestRunner
