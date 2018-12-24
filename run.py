@@ -7,7 +7,7 @@ HTMLtestrunner生成最终报告
 import unittest
 import time
 from HTMLTestRunner import HTMLTestRunner
-from config.readconfig import readConfig
+from svoc.config.readconfig import readConfig
 
 CASEPATH = readConfig().getconfigvalue("path", "CasePath")
 REPORTPATH = readConfig().getconfigvalue("path", "ReportPath")
