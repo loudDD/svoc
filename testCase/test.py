@@ -1,7 +1,11 @@
 """通过遍历excel中没行的值，生成另类测试用例。缺陷：所有结果在一条用例中"""
 
+<<<<<<< HEAD
+
+=======
 import sys
 sys.path.append("../")
+>>>>>>> 30335d43f047605d167ffc255c59e0b779f4f0db
 import unittest
 from time import sleep
 from svoc.page.basepage import POM
@@ -70,3 +74,5 @@ class testsvoc(unittest.TestCase):
             else:
                 sleep(int(round(tim)))
 
+if __name__=="__main__":
+    testsvoc()
