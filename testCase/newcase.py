@@ -2,9 +2,9 @@
 
 import unittest
 
-from svoc.page.basepage import POM
-from svoc.readExcel.readexcel import readExcel
-from svoc.config.readconfig import readConfig
+from page.basepage import POM
+from public.readexcel import readExcel
+from public.readconfig import readConfig
 
 casepath = readConfig().getconfigvalue("path","casepath")
 

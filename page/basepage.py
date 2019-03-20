@@ -3,7 +3,7 @@ import os
 sys.path.append(os.path.abspath(os.path.join(os.getcwd(), "../..")))
 
 from selenium import webdriver
-from svoc.config.readconfig import readConfig
+from public.readconfig import readConfig
 url = readConfig().getconfigvalue("url", "ucUrl")
 
 
@@ -18,10 +18,12 @@ class POM(object):
         except Exception:
             print("Doesn't support well")
 
-    def findelement(self, typ, data):
+    def findelement(self, ele):
         """ 使用try来判断元素是否可识别；
             使用if来判断元素内容，以此确定查找元素方式
         """
+        typ= ele[0]
+        data = ele[1]
         try:
             if typ == "id":
                 element = self.driver.find_element_by_id(data)
@@ -70,3 +72,4 @@ class POM(object):
     def quit(self):
         """关闭浏览器"""
         self.driver.quit()
+

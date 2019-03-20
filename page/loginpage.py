@@ -1,5 +1,5 @@
-from svoc.page.basepage import POM
-
+from page.basepage import POM
+from time import sleep
 class Login(POM):
     """
     登录测试：根据error返回判定登录结果
@@ -7,9 +7,9 @@ class Login(POM):
     无错误信息：登录成功
     TODO:登录页其他功能
     """
-    userlocator = "css","[formcontrolname='username']"
-    pwdlocator  = "css","[formcontrolname='password']"
-    loginlocator= "css","button"
+    userlocator = ["css","[formcontrolname='username']"]
+    pwdlocator  = ["css","[formcontrolname='password']"]
+    loginlocator= ["css","button"]
     def login(self,user,password):
         try:
             self.findelement(self.userlocator).clear()
@@ -17,8 +17,11 @@ class Login(POM):
             self.findelement(self.pwdlocator).click()
             self.findelement(self.pwdlocator).send_keys(password)
             self.findelement(self.loginlocator).click()
+            sleep(5)
         except Exception:
             raise ValueError("cannot find the locator")
+        finally:
+            self.driver.quit()
 
     def forgetPws(self,):
         pass
