@@ -2,142 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2be33ae3-e367-4481-8c5e-90cd49b69161" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/config.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/config.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/readYaml.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testCase/testLogin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiknter图形界面.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/FastTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FastTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1123.py" beforeDir="false" afterPath="$PROJECT_DIR$/1123.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/123.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chromedriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/config.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/readconfig.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/readconfig.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/1123.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/1123.exe.manifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/VCRUNTIME140.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/_bz2.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/_hashlib.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/_lzma.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/_socket.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/_ssl.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/api-ms-win-core-console-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/api-ms-win-core-datetime-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/api-ms-win-core-debug-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/api-ms-win-core-errorhandling-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/api-ms-win-core-file-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/api-ms-win-core-file-l1-2-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/api-ms-win-core-file-l2-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/api-ms-win-core-handle-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/api-ms-win-core-heap-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/api-ms-win-core-interlocked-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/api-ms-win-core-libraryloader-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/api-ms-win-core-localization-l1-2-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/api-ms-win-core-memory-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/api-ms-win-core-namedpipe-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/api-ms-win-core-processenvironment-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/api-ms-win-core-processthreads-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/api-ms-win-core-processthreads-l1-1-1.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/api-ms-win-core-profile-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/api-ms-win-core-rtlsupport-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/api-ms-win-core-string-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/api-ms-win-core-synch-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/api-ms-win-core-synch-l1-2-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/api-ms-win-core-sysinfo-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/api-ms-win-core-timezone-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/api-ms-win-core-util-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/api-ms-win-crt-conio-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/api-ms-win-crt-convert-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/api-ms-win-crt-environment-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/api-ms-win-crt-filesystem-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/api-ms-win-crt-heap-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/api-ms-win-crt-locale-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/api-ms-win-crt-math-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/api-ms-win-crt-process-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/api-ms-win-crt-runtime-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/api-ms-win-crt-stdio-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/api-ms-win-crt-string-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/api-ms-win-crt-time-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/api-ms-win-crt-utility-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/base_library.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/libcrypto-1_1-x64.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/libssl-1_1-x64.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/pyexpat.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/python37.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/select.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/ucrtbase.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1123/unicodedata.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/VCRUNTIME140.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/_bz2.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/_hashlib.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/_lzma.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/_socket.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/_ssl.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/api-ms-win-core-console-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/api-ms-win-core-datetime-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/api-ms-win-core-debug-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/api-ms-win-core-errorhandling-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/api-ms-win-core-file-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/api-ms-win-core-file-l1-2-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/api-ms-win-core-file-l2-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/api-ms-win-core-handle-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/api-ms-win-core-heap-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/api-ms-win-core-interlocked-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/api-ms-win-core-libraryloader-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/api-ms-win-core-localization-l1-2-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/api-ms-win-core-memory-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/api-ms-win-core-namedpipe-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/api-ms-win-core-processenvironment-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/api-ms-win-core-processthreads-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/api-ms-win-core-processthreads-l1-1-1.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/api-ms-win-core-profile-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/api-ms-win-core-rtlsupport-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/api-ms-win-core-string-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/api-ms-win-core-synch-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/api-ms-win-core-synch-l1-2-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/api-ms-win-core-sysinfo-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/api-ms-win-core-timezone-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/api-ms-win-core-util-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/api-ms-win-crt-conio-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/api-ms-win-crt-convert-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/api-ms-win-crt-environment-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/api-ms-win-crt-filesystem-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/api-ms-win-crt-heap-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/api-ms-win-crt-locale-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/api-ms-win-crt-math-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/api-ms-win-crt-process-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/api-ms-win-crt-runtime-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/api-ms-win-crt-stdio-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/api-ms-win-crt-string-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/api-ms-win-crt-time-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/api-ms-win-crt-utility-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/base_library.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/libcrypto-1_1-x64.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/libssl-1_1-x64.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/pyexpat.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/python37.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/run.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/run.exe.manifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/select.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/ucrtbase.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/run/unicodedata.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geckodriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/guess_exe.spec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/basepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/page/basepage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/loginpage.py" beforeDir="false" afterPath="$PROJECT_DIR$/page/loginpage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readExcel/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/accout.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readExcel/readexcel.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/readexcel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testCase/newcase.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/newcase.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testCase/test_1_login.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testimpor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yamlpractice.yaml" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -182,8 +47,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testCase/testLogin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="37" column="19" lean-forward="true" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+            <state relative-caret-position="336">
+              <caret line="32" column="25" lean-forward="true" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
               <folding>
                 <element signature="e#18#50#0" expanded="true" />
               </folding>
@@ -212,8 +77,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page/loginpage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+            <state relative-caret-position="294">
+              <caret line="23" column="12" lean-forward="true" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -290,9 +155,9 @@
         <option value="$PROJECT_DIR$/public/accout.yaml" />
         <option value="$PROJECT_DIR$/testCase/test_login.py" />
         <option value="$PROJECT_DIR$/page/basepage.py" />
+        <option value="$PROJECT_DIR$/1123.py" />
         <option value="$PROJECT_DIR$/page/loginpage.py" />
         <option value="$PROJECT_DIR$/testCase/testLogin.py" />
-        <option value="$PROJECT_DIR$/1123.py" />
       </list>
     </option>
   </component>
@@ -502,44 +367,44 @@
       <workItem from="1552528054376" duration="599000" />
       <workItem from="1552987000290" duration="54000" />
       <workItem from="1553050378636" duration="13444000" />
-      <workItem from="1553077799113" duration="254000" />
+      <workItem from="1553077799113" duration="1367000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_testLogin_loginTest - 2019.03.20 at 18h 19m 29s.xml">
-      <configuration name="Unittests for testLogin.loginTest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_testLogin_py - 2019.03.20 at 18h 20m 04s.xml">
-      <configuration name="Unittests in testLogin.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_testLogin_loginTest_test_login - 2019.03.20 at 18h 20m 34s.xml">
-      <configuration name="Unittests for testLogin.loginTest.test_login" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_testLogin_py - 2019.03.20 at 18h 21m 08s.xml">
-      <configuration name="Unittests in testLogin.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_testLogin_loginTest_test_login - 2019.03.20 at 18h 25m 55s.xml">
-      <configuration name="Unittests for testLogin.loginTest.test_login" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_testLogin_loginTest_test_login - 2019.03.20 at 18h 26m 13s.xml">
-      <configuration name="Unittests for testLogin.loginTest.test_login" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_testLogin_loginTest_test_login - 2019.03.20 at 18h 26m 16s.xml">
-      <configuration name="Unittests for testLogin.loginTest.test_login" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_testLogin_loginTest_test_login - 2019.03.20 at 18h 26m 17s.xml">
-      <configuration name="Unittests for testLogin.loginTest.test_login" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_testLogin_py - 2019.03.20 at 18h 30m 32s.xml">
-      <configuration name="Unittests in testLogin.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_testLogin_py - 2019.03.20 at 18h 31m 06s.xml">
+      <configuration name="Unittests in testLogin.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_testLogin_loginTest_test_login - 2019.03.20 at 18h 34m 43s.xml">
+      <configuration name="Unittests for testLogin.loginTest.test_login" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_testLogin_loginTest_test_login - 2019.03.20 at 18h 34m 51s.xml">
+      <configuration name="Unittests for testLogin.loginTest.test_login" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_testLogin_loginTest_test_login - 2019.03.20 at 18h 34m 53s.xml">
+      <configuration name="Unittests for testLogin.loginTest.test_login" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_testLogin_loginTest_test_login - 2019.03.20 at 18h 34m 54s.xml">
+      <configuration name="Unittests for testLogin.loginTest.test_login" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_testLogin_loginTest_test_login - 2019.03.20 at 18h 34m 55s.xml">
+      <configuration name="Unittests for testLogin.loginTest.test_login" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_testLogin_loginTest_test_login - 2019.03.20 at 18h 34m 58s.xml">
+      <configuration name="Unittests for testLogin.loginTest.test_login" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testLogin_py - 2019.03.20 at 18h 35m 35s.xml">
+      <configuration name="Unittests in testLogin.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testLogin_py - 2019.03.20 at 18h 36m 00s.xml">
+      <configuration name="Unittests in testLogin.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testLogin_py - 2019.03.20 at 18h 37m 04s.xml">
       <configuration name="Unittests in testLogin.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21751000" />
+    <option name="totallyTimeSpent" value="22864000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -551,24 +416,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21801706" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32885087" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4904051" visible="true" weight="0.44793928" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4978678" weight="0.39804772" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48987207" weight="0.44793928" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49733475" weight="0.39804772" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49947312" weight="0.3286334" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50959486" side_tool="true" visible="true" weight="0.44793928" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49307036" weight="0.3275488" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5074627" side_tool="true" visible="true" weight="0.3275488" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49253732" visible="true" weight="0.3275488" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -724,13 +588,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Anaconda/Lib/site-packages/ddt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="306" selection-start-line="306" selection-end-line="306" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/readconfig.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -776,16 +633,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page/loginpage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/page/basepage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
@@ -810,10 +657,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://D:/Anaconda/Lib/site-packages/ddt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="104" lean-forward="true" selection-start-line="104" selection-end-line="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/loginpage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="23" column="12" lean-forward="true" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/testCase/testLogin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="37" column="19" lean-forward="true" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+        <state relative-caret-position="336">
+          <caret line="32" column="25" lean-forward="true" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
           <folding>
             <element signature="e#18#50#0" expanded="true" />
           </folding>
