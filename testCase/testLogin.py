@@ -34,7 +34,7 @@ class Test_LoginModule(unittest.TestCase):
             self.assertTrue(result == self.case.driver.current_url)
             self.logger.info("pass")
         except Exception as e:
-            self.filename = os.path.join("{0}screenshot.png".format(time.strftime("%Y-%m-%d")))
+            self.filename = os.path.join("{0}screenshot.png".format(time.strftime("%Y-%m-%d-%H-%M-%S")))
             self.imgpath = os.path.join(os.path.abspath("../"), "screenshot")
             self.path = os.path.join(self.imgpath, self.filename)
             self.case.screen(self.path)
