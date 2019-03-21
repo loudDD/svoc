@@ -1,9 +1,12 @@
+# -*- coding: utf-8 -*
 """
 测试不同情况登录
 """
-
-from page.loginpage import Login
-#from public.logger import Logger
+import os
+import sys
+sys.path.append(os.path.abspath("./"))
+from page.loginpage import LoginPage
+from public.logger import Logger
 import unittest
 import ddt
 
@@ -11,28 +14,30 @@ import ddt
 
 
 @ddt.ddt
-class loginTest(unittest.TestCase):
+class Test_LoginModule(unittest.TestCase):
+
+    logger = Logger("info").getLog()
 
     def setUp(self):
         print("开始测试")
-    def tearDown(self):
-        print('测试结束')
+
 
     @ddt.file_data(r"C:\Users\loudDD\GitProject\svoc\svoc\public\accout.yaml")
     @ddt.unpack
     def test_login(self,**data):
-        username = data.get("username")
-        pwd = data.get("pwd")
-        result = data.get("result")
-        case = Login()
-        case.login(username,pwd)
+        try:
+            username = data.get("username")
+            pwd = data.get("pwd")
+            result = data.get("result")
+            self.case = LoginPage()
+            self.case.login(username,pwd)
+            self.assertTrue(result==self.case.driver.current_url)
+            self.logger.info("pass")
+        except Exception as e:
+            self.logger.critical("login fail",e)
 
-        if self.assertTrue(result==case.driver.current_url):
-            print("测试通过")
-        else:
-            print('测试失败')
-            print(type(result),123)
-            print(type(case.driver.current_url))
-
+    def tearDown(self):
+        self.case.driver.quit()
+        print('测试结束')
 if __name__ == '__main__':
     unittest.main()

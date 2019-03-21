@@ -2,25 +2,33 @@
 
 import logging
 import os
-import yaml
-
+import time
 class Logger():
-    def __init__(self):
+    def __init__(self,level):
+
+        if level == "info":
+            setloglevel = logging.INFO
+        elif level == "debug":
+            setloglevel = logging.DEBUG
+        elif level == "warning":
+            setloglevel = logging.WARNING
+        elif level == "error":
+            setloglevel = logging.ERROR
+        elif level =="critical":
+            setloglevel = logging.CRITICIAL
+        #确定日志位置和名称
+        self.filename = os.path.join("{0}.log".format(time.strftime("%Y-%m-%d")))
+        self.logpath = os.path.join(os.path.abspath("../"),"log")
+        self.path = os.path.join(self.logpath,self.filename)
+        # print(self.path)
         #创建一个logger
-        self.logger = logging.getLogger(logger)
-        path = os.path.join(os.path.abspath("./"),'config.yaml')
-        if os.path.exists(path):
-            with open(path, 'r', encoding='utf-8') as f:
-                config = yaml.load(f)
-                logging.config.dictConfig(config)
-        else:
-            logging.basicConfig(level=default_level)
+        self.logger = logging.getLogger("David")
         # logging.basicConfig(level=logging.DEBUG,format='')
 
         self.logger.setLevel(logging.DEBUG)
         #创建一个handler,用于写入日志文件
-        fh = logging.FileHandler(logName)
-        fh.setLevel(logging.DEBUG)
+        fh = logging.FileHandler(self.path)
+        fh.setLevel(setloglevel)
 
         #创建一个handler,用于输出到控制台
         ch = logging.StreamHandler()
@@ -35,11 +43,10 @@ class Logger():
         self.logger.addHandler(fh)
         self.logger.addHandler(ch)
 
-        self.logger.error(exc_info = True)
 
     def getLog(self):
         return self.logger
 
-logger = Logger().getLog()
-logger.debug("this is a debug message!")
-logger.info("this is a info message!")
+# logger = Logger('info').getLog()
+# logger.debug("this is a debug message!")
+# logger.info("this is a info message!")

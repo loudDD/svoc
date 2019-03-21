@@ -1,0 +1,8 @@
+2019-03-21 14:44:14,465 - David - INFO - this is a info message!
+2019-03-21 14:45:09,532 - David - INFO - this is a info message!
+2019-03-21 14:45:22,064 - David - INFO - this is a info message!
+2019-03-21 14:49:38,217 - David - CRITICAL - False is not true
+2019-03-21 14:50:04,444 - David - INFO - pass
+2019-03-21 15:00:27,712 - David - INFO - pass
+2019-03-21 15:48:26,780 - David - INFO - pass
+2019-03-21 15:48:53,109 - David - INFO - pass

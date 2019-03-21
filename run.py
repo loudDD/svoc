@@ -16,7 +16,7 @@ REPORTPATH = readConfig().getconfigvalue("path", "ReportPath")
 
 def run():
     """定义具体操作"""
-    case = unittest.defaultTestLoader.discover(CASEPATH, pattern="test.py")
+    case = unittest.defaultTestLoader.discover(CASEPATH, pattern="test*.py")
     now = time.strftime("%Y-%m-%d %H_%M_%S")
     filename = REPORTPATH + "\\" + now + "自动化测试结果.html"
     fp = open(filename, "wb")
