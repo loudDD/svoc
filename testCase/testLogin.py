@@ -9,6 +9,7 @@ from page.loginpage import LoginPage
 from public.logger import Logger
 import unittest
 import ddt
+import time
 
 # from public.readYaml import readYaml
 
@@ -17,7 +18,6 @@ import ddt
 class Test_LoginModule(unittest.TestCase):
 
     logger = Logger("info").getLog()
-
     def setUp(self):
         print("开始测试")
 
@@ -31,10 +31,14 @@ class Test_LoginModule(unittest.TestCase):
             result = data.get("result")
             self.case = LoginPage()
             self.case.login(username,pwd)
-            self.assertTrue(result==self.case.driver.current_url)
+            self.assertTrue(result == self.case.driver.current_url)
             self.logger.info("pass")
         except Exception as e:
-            self.logger.critical("login fail",e)
+            self.filename = os.path.join("{0}screenshot.png".format(time.strftime("%Y-%m-%d")))
+            self.imgpath = os.path.join(os.path.abspath("../"), "screenshot")
+            self.path = os.path.join(self.imgpath, self.filename)
+            self.case.screen(self.path)
+            self.logger.critical((e,"已截图",self.filename))#需要括号括起来，以达到传入一个元素（多个信息）
 
     def tearDown(self):
         self.case.driver.quit()

@@ -39,7 +39,7 @@ class LoginPage(POM):
             self.findelement(self.pwdlocator).click()
             self.findelement(self.pwdlocator).send_keys(password)
             self.findelement(self.loginlocator).click()
-            sleep(20)
+            sleep(10)
         except Exception as e:
             raise ValueError("cannot find the locator",e)
             self.driver.quit()

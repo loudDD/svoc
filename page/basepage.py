@@ -68,6 +68,8 @@ class POM(object):
         """判断元素是否显示，需根据实际结果更改"""
         js = 'documnet.getElementById(list[id]).style.display="block"'
         self.driver.execute_script(js)
+    def screen(self,filepath):
+        self.driver.get_screenshot_as_file(filepath)
 
     def quit(self):
         """关闭浏览器"""

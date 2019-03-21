@@ -6,3 +6,19 @@
 2019-03-21 15:00:27,712 - David - INFO - pass
 2019-03-21 15:48:26,780 - David - INFO - pass
 2019-03-21 15:48:53,109 - David - INFO - pass
+2019-03-21 16:06:11,886 - David - INFO - pass
+2019-03-21 16:23:17,979 - David - INFO - pass
+2019-03-21 16:26:15,975 - David - INFO - pass
+2019-03-21 16:26:42,785 - David - INFO - pass
+2019-03-21 16:32:06,459 - David - INFO - pass
+2019-03-21 16:32:39,903 - David - INFO - pass
+2019-03-21 16:43:08,247 - David - CRITICAL - login fail
+2019-03-21 16:44:40,784 - David - CRITICAL - login fail
+2019-03-21 16:46:02,891 - David - CRITICAL - False is not true
+2019-03-21 16:47:32,403 - David - INFO - pass
+2019-03-21 16:47:52,197 - David - CRITICAL - False is not true
+2019-03-21 16:48:08,684 - David - INFO - pass
+41 - 2019-03-21 16:52:39,252 - David - CRITICAL - test_login - False is not true
+35 - 2019-03-21 16:53:35,225 - David - INFO - test_login - pass
+41 - 2019-03-21 16:57:57,384 - David - CRITICAL - test_login - 41 - (AssertionError('False is not true'), 'fwef')
+35 - 2019-03-21 16:58:13,514 - David - INFO - test_login - 35 - pass

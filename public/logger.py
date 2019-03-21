@@ -35,7 +35,7 @@ class Logger():
         ch.setLevel(logging.DEBUG)
 
         #定义输出格式
-        formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+        formatter = logging.Formatter('%(lineno)d - %(asctime)s - %(name)s - %(levelname)s - %(funcName)s - %(lineno)d - %(message)s')
         fh.setFormatter(formatter)
         ch.setFormatter(formatter)
 
