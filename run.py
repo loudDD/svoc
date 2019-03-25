@@ -9,7 +9,7 @@ sys.path.insert(0,os.path.abspath(os.path.dirname(os.getcwd())))
 import unittest
 import time
 from HTMLTestRunner import HTMLTestRunner
-from svoc.config.readconfig import readConfig
+from public.readconfig import readConfig
 
 CASEPATH = readConfig().getconfigvalue("path", "CasePath")
 REPORTPATH = readConfig().getconfigvalue("path", "ReportPath")

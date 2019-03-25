@@ -24,3 +24,5 @@
 35 - 2019-03-21 16:58:13,514 - David - INFO - test_login - 35 - pass
 41 - 2019-03-21 17:19:15,002 - David - CRITICAL - test_login - 41 - (AssertionError('False is not true'), 'ря╫ьм╪', '2019-03-21- 17:19:14screenshot.png')
 35 - 2019-03-21 17:19:31,069 - David - INFO - test_login - 35 - pass
+41 - 2019-03-21 17:20:35,144 - David - CRITICAL - test_login - 41 - (AssertionError('False is not true'), 'ря╫ьм╪', '2019-03-21-17-20-34screenshot.png')
+35 - 2019-03-21 17:20:51,367 - David - INFO - test_login - 35 - pass
