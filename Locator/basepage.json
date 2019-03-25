@@ -1,7 +1,29 @@
 {
   "Entpage":{
-    "enterpriseconsole": ["css","li:nth-child(1) > a > span"],
-    "inprogressmeeting" : ["css",".sidebar-menu li:nth-child(2) > a"],
-    "appointmeeting": ["css","li:nth-child(3) .hidden-xs"]
-}
+      "enterpriseconsole": ["css","li:nth-child(1) > a > span"],
+      "inprogressmeeting" : ["css",".sidebar-menu li:nth-child(2) > a"],
+      "appointmeeting": ["css","li:nth-child(3) .hidden-xs"],
+      "previousmeeting" : ["xpath","//li[4]/a/span"],
+      "priavatemeeting" : ["xpath","//nav/ul/li[5]/a"],
+      "live" : ["cass","li:nth-child(6) > a"],
+      "comsuptionoverview": ["xpath","//li[8]/a/span"],
+      "comsuptiondetail" : ["xpath","//li[9]/a/span"],
+      "entaddress": ["xpath","//li[11]/a"],
+      "recordinglist" : ["xpath","//li[12]/a/span"],
+      "ordermanage" : ["xpath","//li[13]/a/span"],
+      "operationlog" : ["xpath","//li[14]/a"],
+      "customization" : ["xpath","//li[15]/a/span"],
+      "genernal" : ["xpath","//li[2]/a"],
+      "productandservice" : ["xpath","//li[3]/a"]
+            },
+  "defualt": {
+      "icon": ["css","img"],
+      "chinese" : ["xpath","//label[contains(.,'中文')]"],
+      "english" : ["xapth" , "label:nth-child(2)"],
+      "messages" : ["class","badge"],
+      "userinfo" : ["xpath","//li[3]/a/span"]
+            },
+  "Pripage": {
+
+            }
 }
