@@ -1,6 +1,6 @@
 """读取excel文件，通过函数固定获取个属性"""
 import xlrd
-from svoc.config.readconfig import readConfig
+from public.readconfig import readConfig
 
 file = readConfig()
 FILEPATH = file.getconfigvalue("path", "xlrdPath")
@@ -8,11 +8,14 @@ FILEPATH = file.getconfigvalue("path", "xlrdPath")
 
 class readExcel():
     """定义类"""
-    def __init__(self):
+    def __init__(self,filepath=FILEPATH):
         """确定文件位置和sheet名称"""
-        self.file = xlrd.open_workbook(FILEPATH)
+        self.file = xlrd.open_workbook(filepath)
         self.sheetname = self.file.sheet_by_index(0)
         self.rows = self.sheetname.get_rows()
+    def get_values(self,row,collum):
+        value = self.sheetname.cell(row,collum).value
+        return value
 
     def get_lines(self):
         """获取excel总行数"""

@@ -1,0 +1,2 @@
+- joinmeetingButton : ["link_text","加入会议"]
+  connectionButton : ["css",".alert-actions > div > .btn"]

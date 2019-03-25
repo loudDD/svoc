@@ -1,0 +1,7 @@
+{
+  "Entpage":{
+    "enterpriseconsole": ["css","li:nth-child(1) > a > span"],
+    "inprogressmeeting" : ["css",".sidebar-menu li:nth-child(2) > a"],
+    "appointmeeting": ["css","li:nth-child(3) .hidden-xs"]
+}
+}

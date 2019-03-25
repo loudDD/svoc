@@ -15,3 +15,939 @@
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1553479805236	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loudDD\\AppData\\Local\\Temp\\rust_mozprofile.O2PRHMwdaMnL"
+1553479807505	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1553479807505	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1553479811075	Marionette	INFO	Listening on port 62615
+1553479811331	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+[Parent 616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ip[Child 25740, Chrome_ChildThread] WARNING: cp_icphanneel error:_win.cc, line 33 109: fil2e
+ z:/bui[Child 17632, Chrold/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2574[Parent 616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/commo[Child 25552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 25552, Chrom[Child 19628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child[Parent 15160, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17316, Chr1553480021120	Marionette	INFO	Stopped listening on port 62743
+[GPU 11416, Chrome_Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553480791359	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loudDD\\AppData\\Local\\Temp\\rust_mozprofile.WJeAD8hf5d70"
+1553480791941	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1553480791942	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1553480793505	Marionette	INFO	Listening on port 63069
+1553480793604	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 5548, Chrome_ChildThre[aChild 97d28,] WARNING: pipe error: 109:  Chrome_ChildThread] WARNING: fpiipe error: 109: file lze: /buildz:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 3/32
+build[Child/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9728,[Child 23960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 23960, Chrome_ChildTh1553480839286	Marionette	INFO	Stopped listening on port 63069
+[GPU 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+17840, Chrome_ChildTh
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553480847469	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loudDD\\AppData\\Local\\Temp\\rust_mozprofile.1rLnsPbdIdGr"
+1553480848730	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1553480848730	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1553480851555	Marionette	INFO	Listening on port 63131
+1553480851796	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 25660, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21[Child 20616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20616, Chrome_Chil[Parent 25660, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chil
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1B0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1553483256871	Marionette	INFO	Stopped listening on port 63131
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 19080
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+no-remote" "-profile" "C:\\Users\\loudDD\\AppData\\Local\\Temp\\rust_mozprofile.2nN96qu8DI4c"
+1553480922705	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1553480922705	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1553480924288	Marionette	INFO	Listening on port 63241
+1553480924449	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 15828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 15828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 26280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child[Parent 15828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child1553480979490	Marionette	INFO	Stopped listening on port 63241
+[GPU 24912, Chrome_Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553481005680	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loudDD\\AppData\\Local\\Temp\\rust_mozprofile.sLF8JFZnsgOo"
+1553481007422	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1553481007422	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1553481009150	Marionette	INFO	Listening on port 63325
+1553481009514	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553481024967	Marionette	INFO	Stopped listening on port 63325
+[Child 25268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 13076, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7112, [Parent 13076, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1800, C[GPU 2398
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+0, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553481042833	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loudDD\\AppData\\Local\\Temp\\rust_mozprofile.AGHEp4xmOTns"
+1553481044440	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1553481044441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1553481045921	Marionette	INFO	Listening on port 63384
+1553481046055	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 23672, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 25632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/i[Child 11656, Chrome_ChildThread] Wpc/chrAoRNING: pipe error: 109: file zm:/build/build/src/ipc/chroimium/src/chrome/common/iupmc/_scrhca/nnel_win.cc, line 332c
+hrome/c[ommon/ipc_channel_win.cc, line 332
+[Child1553481058638	Marionette	INFO	Stopped listening on port 63384
+[GPU 25960, Chrome_Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553497012396	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loudDD\\AppData\\Local\\Temp\\rust_mozprofile.WzyAHCawk2Pv"
+1553497016615	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553497016615	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553497016615	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.images.headerURL: Please use <em>theme.images.theme_frame</em>, this alias will be removed in Firefox 69.
+1553497016618	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["bookmarks"], be one of ["topSites"], be one of ["history"], be one of ["find"], be one of ["search"], be one of ["webRequest", "webRequestBlocking"], be one of ["menus.overrideContext"], be one of ["activeTab", "tabs", "tabHide"], or be one of ["webNavigation"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["identity"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["management"], be one of ["privacy"], be one of ["proxy"], be one of ["telemetry"], be one of ["theme"], be one of ["browsingData"], be one of ["devtools"], be one of ["nativeMessaging"], match the pattern /^experiments(\.\w+)+$/, be one of ["geckoProfiler"], be one of ["pkcs11"], be one of ["sessions"], or be one of ["menus", "contextMenus"]], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1553497016619	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing version_name: An unexpected property was found in the WebExtension manifest.
+1553497016619	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1553497017567	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553497017567	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553497017567	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.toolbar_text: Please use <em>theme.colors.bookmark_text</em>, this alias will be removed in Firefox 69.
+1553497018185	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["bookmarks"], be one of ["topSites"], be one of ["history"], be one of ["find"], be one of ["search"], be one of ["webRequest", "webRequestBlocking"], be one of ["menus.overrideContext"], be one of ["activeTab", "tabs", "tabHide"], or be one of ["webNavigation"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["identity"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["management"], be one of ["privacy"], be one of ["proxy"], be one of ["telemetry"], be one of ["theme"], be one of ["browsingData"], be one of ["devtools"], be one of ["nativeMessaging"], match the pattern /^experiments(\.\w+)+$/, be one of ["geckoProfiler"], be one of ["pkcs11"], be one of ["sessions"], or be one of ["menus", "contextMenus"]], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1553497018186	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing version_name: An unexpected property was found in the WebExtension manifest.
+1553497018187	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1553497018387	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553497018387	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553497018387	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.images.headerURL: Please use <em>theme.images.theme_frame</em>, this alias will be removed in Firefox 69.
+1553497018628	Marionette	INFO	Listening on port 53477
+1553497018902	Marionette	WARN	TLS certificate errors will be ignored for this session
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1553497052562	FirefoxAccounts	ERROR	error POSTing /certificate/sign: {"error":{},"errorString":"[Exception... \"NS_ERROR_ABORT\"  nsresult: \"0x80004004 (NS_ERROR_ABORT)\"  location: \"JS frame :: resource://services-common/rest.js :: onStopRequest :: line 437\"  data: no]","message":null,"code":null,"errno":null}
+1553497052562	FirefoxAccounts	ERROR	HAWK.signCertificate error: {"error":{},"errorString":"[Exception... \"NS_ERROR_ABORT\"  nsresult: \"0x80004004 (NS_ERROR_ABORT)\"  location: \"JS frame :: resource://services-common/rest.js :: onStopRequest :: line 437\"  data: no]","message":null,"code":null,"errno":null}
+1553497052562	Sync.BrowserIDManager	ERROR	Non-authentication error in _fetchTokenForUser: {"error":{},"errorString":"[Exception... \"NS_ERROR_ABORT\"  nsresult: \"0x80004004 (NS_ERROR_ABORT)\"  location: \"JS frame :: resource://services-common/rest.js :: onStopRequest :: line 437\"  data: no]","message":null,"code":null,"errno":null}
+1553497052564	Sync.ErrorHandler	ERROR	Sync encountered a login error
+[Parent 26892, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 26892, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 26616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 25576, Chrome_ChildThread] WARNING: pipe error:[ C1h0ild 3632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build9/:s rfile z:/build/build/src/ipc/chromium/srcc//chrome/icpommon/ipc_channel_win.cc, line c3/3c2h
+romium/src/chrome/common/ipc_channel_win.cc, line 332[
+Child 25576, Chrome_ChildThread] WA[Child 3632, Chrome_ChildThread] WARNING: pipe error: 10R9N: file z:/build/build/src/ipc/chromium/src/chrome/coImNmGon/ipc_channel_win.cc, line 332
+: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1553497054384	Marionette	INFO	Stopped listening on port 53477
+[GPU 20376, Chrome_ChildT
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSource::Msg_Teardown Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_Teardown Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSource::Msg_Teardown Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_Teardown Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSource::Msg_Teardown Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_Teardown Route error: message sent to unknown actor ID
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553497060452	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loudDD\\AppData\\Local\\Temp\\rust_mozprofile.iwB79wpO6YV6"
+1553497062384	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553497062384	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553497062384	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.images.headerURL: Please use <em>theme.images.theme_frame</em>, this alias will be removed in Firefox 69.
+1553497062389	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["find"], be one of ["history"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["topSites"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["management"], be one of ["privacy"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1553497062390	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing version_name: An unexpected property was found in the WebExtension manifest.
+1553497062390	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1553497062902	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553497062902	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553497062903	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.toolbar_text: Please use <em>theme.colors.bookmark_text</em>, this alias will be removed in Firefox 69.
+1553497062958	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["find"], be one of ["history"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["topSites"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["management"], be one of ["privacy"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1553497062960	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing version_name: An unexpected property was found in the WebExtension manifest.
+1553497062961	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1553497063100	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553497063100	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553497063100	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.images.headerURL: Please use <em>theme.images.theme_frame</em>, this alias will be removed in Firefox 69.
+1553497063245	Marionette	INFO	Listening on port 53587
+1553497063672	Marionette	WARN	TLS certificate errors will be ignored for this session
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+[Parent 24952, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1553497085525	Sync.ErrorHandler	ERROR	Some engines did not sync correctly.
+[Child 856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8[Child 27100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2[Parent 24952, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 26336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 263
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0097,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+[
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0086,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+Child 10844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500B7,name=PContent::Msg_SetGeolocationHigherAccuracy) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x350110,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1553497085751	Marionette	INFO	Stopped listening on port 53587
+[GPU 22216, Chrome_ChildT
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+hre
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553497092394	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loudDD\\AppData\\Local\\Temp\\rust_mozprofile.BcRd04cGq6jP"
+1553497093923	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553497093924	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553497093924	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.images.headerURL: Please use <em>theme.images.theme_frame</em>, this alias will be removed in Firefox 69.
+1553497093928	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["find"], be one of ["history"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["topSites"], be one of ["webRequest", "webRequestBlocking"], or be one of ["webNavigation"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["geckoProfiler"], be one of ["pkcs11"], be one of ["sessions"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["management"], be one of ["privacy"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1553497093929	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing version_name: An unexpected property was found in the WebExtension manifest.
+1553497093929	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1553497094460	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553497094460	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553497094461	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.toolbar_text: Please use <em>theme.colors.bookmark_text</em>, this alias will be removed in Firefox 69.
+1553497094514	Marionette	INFO	Listening on port 53692
+1553497094579	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["find"], be one of ["history"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["topSites"], be one of ["webRequest", "webRequestBlocking"], or be one of ["webNavigation"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["geckoProfiler"], be one of ["pkcs11"], be one of ["sessions"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["management"], be one of ["privacy"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1553497094580	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing version_name: An unexpected property was found in the WebExtension manifest.
+1553497094580	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1553497094649	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553497094725	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553497094725	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553497094725	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.images.headerURL: Please use <em>theme.images.theme_frame</em>, this alias will be removed in Firefox 69.
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1553497110579	FirefoxAccounts	ERROR	error POSTing /certificate/sign: {"error":{},"errorString":"[Exception... \"NS_ERROR_ABORT\"  nsresult: \"0x80004004 (NS_ERROR_ABORT)\"  location: \"JS frame :: resource://services-common/rest.js :: onStopRequest :: line 437\"  data: no]","message":null,"code":null,"errno":null}
+1553497110579	FirefoxAccounts	ERROR	HAWK.signCertificate error: {"error":{},"errorString":"[Exception... \"NS_ERROR_ABORT\"  nsresult: \"0x80004004 (NS_ERROR_ABORT)\"  location: \"JS frame :: resource://services-common/rest.js :: onStopRequest :: line 437\"  data: no]","message":null,"code":null,"errno":null}
+1553497110579	Sync.BrowserIDManager	ERROR	Non-authentication error in _fetchTokenForUser: {"error":{},"errorString":"[Exception... \"NS_ERROR_ABORT\"  nsresult: \"0x80004004 (NS_ERROR_ABORT)\"  location: \"JS frame :: resource://services-common/rest.js :: onStopRequest :: line 437\"  data: no]","message":null,"code":null,"errno":null}
+1553497110580	Sync.ErrorHandler	ERROR	Sync encountered a login error
+[Pare[nCt 168h24i, Geclkdo _2I6O9T00, Chrome_ChildThread] WARNING: pipe error: 109:h rfeadile z:]/build/build/sr cW/ipc/chroARNImNG: pipe erriourm:/ src/c1h0r9o: file zm:/buiel/dc/build/src/oimmon/ipc_channepc/chromium/src/chrome/common/ipc_channel_lwin.cc, line 332_
+win.cc, line 332
+[Child 26900, Chr[Child 7316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7316[Child 4044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4044, Chrome_Chi1553497112097	Marionette	INFO	Stopped listening on port 53692
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 22620, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553497118359	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loudDD\\AppData\\Local\\Temp\\rust_mozprofile.Et0ftq8KxSwG"
+1553497120868	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553497120869	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553497120869	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.images.headerURL: Please use <em>theme.images.theme_frame</em>, this alias will be removed in Firefox 69.
+1553497120872	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["history"], be one of ["find"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["topSites"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["management"], be one of ["privacy"], be one of ["nativeMessaging"], be one of ["proxy"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1553497120872	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing version_name: An unexpected property was found in the WebExtension manifest.
+1553497120873	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1553497121389	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553497121389	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553497121389	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.toolbar_text: Please use <em>theme.colors.bookmark_text</em>, this alias will be removed in Firefox 69.
+1553497121435	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["history"], be one of ["find"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["topSites"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["management"], be one of ["privacy"], be one of ["nativeMessaging"], be one of ["proxy"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1553497121437	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing version_name: An unexpected property was found in the WebExtension manifest.
+1553497121437	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1553497121563	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553497121563	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553497121563	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.images.headerURL: Please use <em>theme.images.theme_frame</em>, this alias will be removed in Firefox 69.
+1553497121651	Marionette	INFO	Listening on port 53770
+1553497121701	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://sjs.sinajs.cn/blog7/article.js?683.js, line 3: unreachable code after return statement
+JavaScript warning: http://sjs.sinajs.cn/blog7/article.js?683.js, line 19: unreachable code after return statement
+JavaScript warning: http://sjs.sinajs.cn/blog7/article.js?683.js, line 22: unreachable code after return statement
+JavaScript warning: http://sjs.sinajs.cn/blog7/article.js?683.js, line 27: unreachable code after return statement
+[Child 26500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/ch[Chriolmde /1c5o7m1m6o,n /Cihprc_channel_win.come_ChildThread] WARNING: pipe error: 10c9,:  lfiinlee  3z3:2/
+build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15716, [Child 26424, Chrome_ChildT
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0097,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+hread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0086,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x350110,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500B7,name=PContent::Msg_SetGeolocationHigherAccuracy) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500B7,name=PContent::Msg_SetGeolocationHigherAccuracy) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x350110,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1553497137613	Marionette	INFO	Stopped listening on port 53770
+[GPU 26336, Chrom
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+e
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553497180155	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loudDD\\AppData\\Local\\Temp\\rust_mozprofile.ZtQiMfVcvKIW"
+1553497184388	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553497184389	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553497184389	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.images.headerURL: Please use <em>theme.images.theme_frame</em>, this alias will be removed in Firefox 69.
+1553497184393	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["find"], be one of ["history"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["topSites"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["management"], be one of ["privacy"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1553497184393	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing version_name: An unexpected property was found in the WebExtension manifest.
+1553497184393	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1553497184917	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553497184918	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553497184918	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.toolbar_text: Please use <em>theme.colors.bookmark_text</em>, this alias will be removed in Firefox 69.
+1553497184996	Marionette	INFO	Listening on port 53944
+1553497185095	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["find"], be one of ["history"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["topSites"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["management"], be one of ["privacy"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1553497185096	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing version_name: An unexpected property was found in the WebExtension manifest.
+1553497185096	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1553497185112	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553497185255	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553497185255	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553497185255	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.images.headerURL: Please use <em>theme.images.theme_frame</em>, this alias will be removed in Firefox 69.
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1553497205625	FirefoxAccounts	ERROR	error POSTing /certificate/sign: {"error":{},"errorString":"[Exception... \"NS_ERROR_ABORT\"  nsresult: \"0x80004004 (NS_ERROR_ABORT)\"  location: \"JS frame :: resource://services-common/rest.js :: onStopRequest :: line 437\"  data: no]","message":null,"code":null,"errno":null}
+1553497205625	FirefoxAccounts	ERROR	HAWK.signCertificate error: {"error":{},"errorString":"[Exception... \"NS_ERROR_ABORT\"  nsresult: \"0x80004004 (NS_ERROR_ABORT)\"  location: \"JS frame :: resource://services-common/rest.js :: onStopRequest :: line 437\"  data: no]","message":null,"code":null,"errno":null}
+1553497205625	Sync.BrowserIDManager	ERROR	Non-authentication error in _fetchTokenForUser: {"error":{},"errorString":"[Exception... \"NS_ERROR_ABORT\"  nsresult: \"0x80004004 (NS_ERROR_ABORT)\"  location: \"JS frame :: resource://services-common/rest.js :: onStopRequest :: line 437\"  data: no]","message":null,"code":null,"errno":null}
+1553497205626	Sync.ErrorHandler	ERROR	Sync encountered a login error
+[Child 27068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/[Child 26168, Chrome_ChildThread] WARNING: psirpce/ cehrrroomre:/ c1o0mmon/ipc_9c: file z:/build/build/src/ipc/hcannelhromium/src/chrom_ew/common/ipc_channelin.cc, line 332
+_win.cc, line 332
+[Chil[Parent 1040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chi1553497205851	Marionette	INFO	Stopped listening on port 53944
+[GPU 24272, Chrome_Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553497629156	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loudDD\\AppData\\Local\\Temp\\rust_mozprofile.TFrEF6N6Ulkj"
+1553497631164	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553497631165	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553497631165	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.images.headerURL: Please use <em>theme.images.theme_frame</em>, this alias will be removed in Firefox 69.
+1553497631169	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["find"], be one of ["history"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["topSites"], be one of ["webRequest", "webRequestBlocking"], or be one of ["webNavigation"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["management"], be one of ["privacy"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1553497631170	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing version_name: An unexpected property was found in the WebExtension manifest.
+1553497631171	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1553497631647	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553497631648	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553497631648	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.toolbar_text: Please use <em>theme.colors.bookmark_text</em>, this alias will be removed in Firefox 69.
+1553497631812	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["find"], be one of ["history"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["topSites"], be one of ["webRequest", "webRequestBlocking"], or be one of ["webNavigation"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["management"], be one of ["privacy"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1553497631813	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing version_name: An unexpected property was found in the WebExtension manifest.
+1553497631814	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1553497631983	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553497631983	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553497631983	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.images.headerURL: Please use <em>theme.images.theme_frame</em>, this alias will be removed in Firefox 69.
+1553497632120	Marionette	INFO	Listening on port 54533
+1553497632373	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://sjs.sinajs.cn/blog7/article.js?683.js, line 3: unreachable code after return statement
+JavaScript warning: http://sjs.sinajs.cn/blog7/article.js?683.js, line 19: unreachable code after return statement
+JavaScript warning: http://sjs.sinajs.cn/blog7/article.js?683.js, line 22: unreachable code after return statement
+JavaScript warning: http://sjs.sinajs.cn/blog7/article.js?683.js, line 27: unreachable code after return statement
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1553497692508	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loudDD\\AppData\\Local\\Temp\\rust_mozprofile.OKRAYligVXiS"
+1553497693992	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553497693992	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553497693993	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.images.headerURL: Please use <em>theme.images.theme_frame</em>, this alias will be removed in Firefox 69.
+1553497693997	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["find"], be one of ["history"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["topSites"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["management"], be one of ["privacy"], be one of ["nativeMessaging"], be one of ["proxy"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1553497693998	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing version_name: An unexpected property was found in the WebExtension manifest.
+1553497693998	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1553497694402	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553497694402	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553497694402	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.toolbar_text: Please use <em>theme.colors.bookmark_text</em>, this alias will be removed in Firefox 69.
+1553497694566	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["find"], be one of ["history"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["topSites"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["management"], be one of ["privacy"], be one of ["nativeMessaging"], be one of ["proxy"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1553497694568	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing version_name: An unexpected property was found in the WebExtension manifest.
+1553497694568	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1553497694676	Marionette	INFO	Listening on port 54722
+1553497694706	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553497694706	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553497694707	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.images.headerURL: Please use <em>theme.images.theme_frame</em>, this alias will be removed in Firefox 69.
+1553497694736	Marionette	WARN	TLS certificate errors will be ignored for this session
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1553497721488	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loudDD\\AppData\\Local\\Temp\\rust_mozprofile.uax92Fe2mP83"
+1553497722507	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553497722507	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553497722507	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.images.headerURL: Please use <em>theme.images.theme_frame</em>, this alias will be removed in Firefox 69.
+1553497722511	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["history"], be one of ["find"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["topSites"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["management"], be one of ["privacy"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1553497722512	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing version_name: An unexpected property was found in the WebExtension manifest.
+1553497722512	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1553497722912	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553497722912	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553497722912	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.toolbar_text: Please use <em>theme.colors.bookmark_text</em>, this alias will be removed in Firefox 69.
+1553497723149	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["history"], be one of ["find"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["topSites"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["management"], be one of ["privacy"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1553497723151	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing version_name: An unexpected property was found in the WebExtension manifest.
+1553497723151	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1553497723228	Marionette	INFO	Listening on port 54805
+1553497723297	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553497723297	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553497723297	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.images.headerURL: Please use <em>theme.images.theme_frame</em>, this alias will be removed in Firefox 69.
+1553497723604	Marionette	WARN	TLS certificate errors will be ignored for this session
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1553497769054	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loudDD\\AppData\\Local\\Temp\\rust_mozprofile.2oXTkOQdBawC"
+1553497770432	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553497770432	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553497770432	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.images.headerURL: Please use <em>theme.images.theme_frame</em>, this alias will be removed in Firefox 69.
+1553497770438	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["find"], be one of ["history"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["topSites"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["management"], be one of ["privacy"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1553497770439	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing version_name: An unexpected property was found in the WebExtension manifest.
+1553497770439	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1553497770764	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553497770764	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553497770764	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.toolbar_text: Please use <em>theme.colors.bookmark_text</em>, this alias will be removed in Firefox 69.
+1553497770937	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["find"], be one of ["history"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["topSites"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["management"], be one of ["privacy"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1553497770939	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing version_name: An unexpected property was found in the WebExtension manifest.
+1553497770939	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1553497771144	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553497771144	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553497771144	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.images.headerURL: Please use <em>theme.images.theme_frame</em>, this alias will be removed in Firefox 69.
+1553497771193	Marionette	INFO	Listening on port 54910
+1553497771281	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://sjs.sinajs.cn/blog7/article.js?683.js, line 3: unreachable code after return statement
+JavaScript warning: http://sjs.sinajs.cn/blog7/article.js?683.js, line 19: unreachable code after return statement
+JavaScript warning: http://sjs.sinajs.cn/blog7/article.js?683.js, line 22: unreachable code after return statement
+JavaScript warning: http://sjs.sinajs.cn/blog7/article.js?683.js, line 27: unreachable code after return statement
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1553497800419	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loudDD\\AppData\\Local\\Temp\\rust_mozprofile.7fHrEo09IqvY"
+1553497801951	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553497801951	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553497801951	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.images.headerURL: Please use <em>theme.images.theme_frame</em>, this alias will be removed in Firefox 69.
+1553497801955	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["history"], be one of ["find"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["topSites"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["management"], be one of ["proxy"], be one of ["privacy"], be one of ["nativeMessaging"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1553497801955	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing version_name: An unexpected property was found in the WebExtension manifest.
+1553497801955	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1553497802275	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553497802275	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553497802275	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.toolbar_text: Please use <em>theme.colors.bookmark_text</em>, this alias will be removed in Firefox 69.
+1553497802432	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["history"], be one of ["find"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["topSites"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["management"], be one of ["proxy"], be one of ["privacy"], be one of ["nativeMessaging"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1553497802434	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing version_name: An unexpected property was found in the WebExtension manifest.
+1553497802434	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1553497802565	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553497802565	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553497802565	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.images.headerURL: Please use <em>theme.images.theme_frame</em>, this alias will be removed in Firefox 69.
+1553497802664	Marionette	INFO	Listening on port 55055
+1553497803144	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553497815644	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loudDD\\AppData\\Local\\Temp\\rust_mozprofile.ZOFmQp0zsmkQ"
+1553497816653	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553497816653	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553497816653	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.images.headerURL: Please use <em>theme.images.theme_frame</em>, this alias will be removed in Firefox 69.
+1553497816658	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["find"], be one of ["history"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["topSites"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["geckoProfiler"], be one of ["pkcs11"], be one of ["sessions"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["management"], be one of ["privacy"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1553497816658	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing version_name: An unexpected property was found in the WebExtension manifest.
+1553497816658	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1553497816954	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553497816954	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553497816954	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.toolbar_text: Please use <em>theme.colors.bookmark_text</em>, this alias will be removed in Firefox 69.
+1553497817113	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["find"], be one of ["history"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["topSites"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["geckoProfiler"], be one of ["pkcs11"], be one of ["sessions"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["management"], be one of ["privacy"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1553497817115	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing version_name: An unexpected property was found in the WebExtension manifest.
+1553497817115	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1553497817305	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553497817305	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553497817306	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.images.headerURL: Please use <em>theme.images.theme_frame</em>, this alias will be removed in Firefox 69.
+1553497817497	Marionette	INFO	Listening on port 55124
+1553497817778	Marionette	WARN	TLS certificate errors will be ignored for this session
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+JavaScript warning: http://sjs.sinajs.cn/blog7/article.js?683.js, line 3: unreachable code after return statement
+JavaScript warning: http://sjs.sinajs.cn/blog7/article.js?683.js, line 19: unreachable code after return statement
+JavaScript warning: http://sjs.sinajs.cn/blog7/article.js?683.js, line 22: unreachable code after return statement
+JavaScript warning: http://sjs.sinajs.cn/blog7/article.js?683.js, line 27: unreachable code after return statement
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://start.firefoxchina.cn/js/tabLib-min.js?v=20150120, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 27556, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8676, ChromJavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 27556, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 22492, Chrome_ChildThread] WARNING: pipe error: 109: [Child 21656, Chrome_ChildThread] WAfRNING: pipe error: 109: file z:/build/build/src/ipcile z://chromium/src/chrome/combuild/build/src/ipc/chromium/mon/ipc_channesrc/chrome/common/ipc_channel_wil_win.cc, line 332
+n.cc, line 332
+[Ch[[Parent 27556, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 26752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 26752, Chrome_ChildThread] WARN1553498223345	Marionette	INFO	Stopped listening on port 55124
+[GPU 274
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+64, Chrome_Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+nd"], be one of ["history"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["topSites"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["management"], be one of ["privacy"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1553497882490	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing version_name: An unexpected property was found in the WebExtension manifest.
+1553497882490	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1553497882940	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553497882941	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553497882941	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.toolbar_text: Please use <em>theme.colors.bookmark_text</em>, this alias will be removed in Firefox 69.
+1553497883004	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["find"], be one of ["history"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["topSites"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["management"], be one of ["privacy"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1553497883006	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing version_name: An unexpected property was found in the WebExtension manifest.
+1553497883006	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1553497883130	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553497883131	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553497883131	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.images.headerURL: Please use <em>theme.images.theme_frame</em>, this alias will be removed in Firefox 69.
+1553497883244	Marionette	INFO	Listening on port 55318
+1553497883323	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553497893516	Marionette	INFO	Stopped listening on port 55318
+[Child 21016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2[Parent 25280, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11000[Child 16056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chi
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0097,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0086,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x520005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x520021,name=PHttpChannel::Msg_SetPriority) Closed channel: cannot send/recv
+
+[Child 16488, Chrome_ChildThread] WARNIN
+###!!! [Child][MessageChannel] Error: (msgtype=0x1E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+G: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 91: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500B7,name=PContent::Msg_SetGeolocationHigherAccuracy) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500B7,name=PContent::Msg_SetGeolocationHigherAccuracy) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x350110,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 5868, Chrome_ChildThread] WAR
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553498214549	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loudDD\\AppData\\Local\\Temp\\rust_mozprofile.3YZQYs4UBd74"
+1553498215894	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1553498215894	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1553498217502	Marionette	INFO	Listening on port 55916
+1553498217768	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553498224773	Marionette	INFO	Stopped listening on port 55916
+[Child 24004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chil[Child 21896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21896, Chrome_ChildThr[Parent 9624, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 25060,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553498246702	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loudDD\\AppData\\Local\\Temp\\rust_mozprofile.BJ9C8Ddwf6RG"
+1553498247208	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1553498247208	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1553498248689	Marionette	INFO	Listening on port 55991
+1553498248818	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553498255917	Marionette	INFO	Stopped listening on port 55991
+[Child 11236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11236, Chro[Parent 25304, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5[GPU 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+19484, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553498273944	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loudDD\\AppData\\Local\\Temp\\rust_mozprofile.h2lhj1WncDDR"
+1553498274443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1553498274443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1553498275693	Marionette	INFO	Listening on port 56057
+1553498276060	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553498291784	Marionette	INFO	Stopped listening on port 56057
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Child 25624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 22040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 22[Parent 16156, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15444[GPU 27280, Ch
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+r
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553498321276	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loudDD\\AppData\\Local\\Temp\\rust_mozprofile.OPc8L3lIpokp"
+1553498321791	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1553498321791	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1553498323094	Marionette	INFO	Listening on port 56148
+1553498323399	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553498362640	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loudDD\\AppData\\Local\\Temp\\rust_mozprofile.RPdoT57YGPQe"
+1553498363614	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553498363615	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553498363615	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.images.headerURL: Please use <em>theme.images.theme_frame</em>, this alias will be removed in Firefox 69.
+1553498363620	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["find"], be one of ["history"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["topSites"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["management"], be one of ["privacy"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1553498363621	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing version_name: An unexpected property was found in the WebExtension manifest.
+1553498363621	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1553498363992	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553498363992	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553498363992	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.toolbar_text: Please use <em>theme.colors.bookmark_text</em>, this alias will be removed in Firefox 69.
+1553498364185	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["find"], be one of ["history"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["topSites"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["management"], be one of ["privacy"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1553498364188	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing version_name: An unexpected property was found in the WebExtension manifest.
+1553498364188	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1553498364300	Marionette	INFO	Listening on port 56239
+1553498364332	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553498364332	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553498364332	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.images.headerURL: Please use <em>theme.images.theme_frame</em>, this alias will be removed in Firefox 69.
+1553498364764	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+[Parent 26260, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 26260, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1553498379634	FirefoxAccounts	ERROR	error POSTing /certificate/sign: {"error":{},"errorString":"[Exception... \"NS_ERROR_ABORT\"  nsresult: \"0x80004004 (NS_ERROR_ABORT)\"  location: \"JS frame :: resource://services-common/rest.js :: onStopRequest :: line 437\"  data: no]","message":null,"code":null,"errno":null}
+1553498379634	FirefoxAccounts	ERROR	HAWK.signCertificate error: {"error":{},"errorString":"[Exception... \"NS_ERROR_ABORT\"  nsresult: \"0x80004004 (NS_ERROR_ABORT)\"  location: \"JS frame :: resource://services-common/rest.js :: onStopRequest :: line 437\"  data: no]","message":null,"code":null,"errno":null}
+1553498379634	Sync.BrowserIDManager	ERROR	Non-authentication error in _fetchTokenForUser: {"error":{},"errorString":"[Exception... \"NS_ERROR_ABORT\"  nsresult: \"0x80004004 (NS_ERROR_ABORT)\"  location: \"JS frame :: resource://services-common/rest.js :: onStopRequest :: line 437\"  data: no]","message":null,"code":null,"errno":null}
+1553498379635	Sync.ErrorHandler	ERROR	Sync encountered a login error
+[Child 24848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrom[Child 26572e,/ Chrome_ChildThcommon/ipc_channel_wirn.cc, lienaed ] WARN3I32N
+G: pipe error: 109: fil[eC hild 2484z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 26572, Chrom[Parent 26260, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Ch1553498379813	Marionette	INFO	Stopped listening on port 56239
+[GPU 25288, Chrome_ChildT
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553498594082	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loudDD\\AppData\\Local\\Temp\\rust_mozprofile.PeZPAfZWxFqg"
+1553498595438	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1553498595438	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1553498596893	Marionette	INFO	Listening on port 56782
+1553498597298	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[Child 14064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14064[Parent 2376, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15[Parent 2376, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 24424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child1553498605969	Marionette	INFO	Stopped listening on port 56782
+[GPU 14920, Chrome_ChildThread
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553498718362	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loudDD\\AppData\\Local\\Temp\\rust_mozprofile.VD4zgQD9TNG9"
+1553498737253	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loudDD\\AppData\\Local\\Temp\\rust_mozprofile.Roze0Qgj1PTT"
+1553498739107	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553498739107	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553498739107	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553498741000	Marionette	INFO	Listening on port 57134
+1553498741479	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553498758059	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loudDD\\AppData\\Local\\Temp\\rust_mozprofile.QuB3FrMqrray"
+1553498759597	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553498759598	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553498759598	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.toolbar_text: Please use <em>theme.colors.bookmark_text</em>, this alias will be removed in Firefox 69.
+1553498759644	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["history"], be one of ["find"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["topSites"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["management"], be one of ["privacy"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1553498759645	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing version_name: An unexpected property was found in the WebExtension manifest.
+1553498759645	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1553498759779	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553498759779	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553498759779	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.images.headerURL: Please use <em>theme.images.theme_frame</em>, this alias will be removed in Firefox 69.
+1553498759810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553498759810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553498759810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553498759893	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553498759893	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553498759893	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.toolbar_text: Please use <em>theme.colors.bookmark_text</em>, this alias will be removed in Firefox 69.
+1553498759898	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["history"], be one of ["find"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["topSites"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["management"], be one of ["privacy"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1553498759898	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing version_name: An unexpected property was found in the WebExtension manifest.
+1553498759898	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1553498759901	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553498759901	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553498759901	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.images.headerURL: Please use <em>theme.images.theme_frame</em>, this alias will be removed in Firefox 69.
+1553498760295	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553498760296	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553498760296	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.images.headerURL: Please use <em>theme.images.theme_frame</em>, this alias will be removed in Firefox 69.
+1553498760302	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["history"], be one of ["find"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["topSites"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["management"], be one of ["privacy"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1553498760303	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing version_name: An unexpected property was found in the WebExtension manifest.
+1553498760303	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1553498761747	Marionette	INFO	Listening on port 57211
+1553498761883	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 24284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 24JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Child 23700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 23700, Chrome_C[Parent 11404, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21004, Chrom1553498783583	Marionette	INFO	Stopped listening on port 57211
+[GPU 25
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+212, Chrome_ChildT
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553498852302	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loudDD\\AppData\\Local\\Temp\\rust_mozprofile.4DJmQiiZlCOw"
+1553498853855	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553498853855	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553498853855	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553498855631	Marionette	INFO	Listening on port 57370
+1553498856121	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Child 8764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8764, Chrome_ChildThread] WARNING: pipe error: [[Child 18760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1871553498967109	Marionette	INFO	Stopped listening on port 57370
+[GPU 25724, Chr
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+om
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553499289412	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loudDD\\AppData\\Local\\Temp\\rust_mozprofile.EvJtfN0Okvaa"
+1553499291253	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553499291253	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553499291253	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553499292637	Marionette	INFO	Listening on port 58075
+1553499292869	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 25052, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21896, Chrome_[Child 26268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chil
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1B0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1553500411928	Marionette	INFO	Stopped listening on port 58075
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 27076, Chrome_ChildThread] WA
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+WebGL(23802800)::ForceLoseContext
+WebGL(23803800)::ForceLoseContext
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 14532, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 23868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 23868, Chrome_ChildThread] W1553500404777	Marionette	INFO	Stopped listening on port 58516
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 928, Chrome_ChildThread] WARNING:
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553500440418	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loudDD\\AppData\\Local\\Temp\\rust_mozprofile.JeyIo1L27x4v"
+1553500441430	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553500441430	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553500441431	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.toolbar_text: Please use <em>theme.colors.bookmark_text</em>, this alias will be removed in Firefox 69.
+1553500441472	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["find"], be one of ["history"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["topSites"], be one of ["webRequest", "webRequestBlocking"], or be one of ["webNavigation"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["management"], be one of ["privacy"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1553500441472	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing version_name: An unexpected property was found in the WebExtension manifest.
+1553500441472	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1553500441577	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553500441577	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553500441577	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.images.headerURL: Please use <em>theme.images.theme_frame</em>, this alias will be removed in Firefox 69.
+1553500441600	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553500441600	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553500441600	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553500441674	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553500441674	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553500441674	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.toolbar_text: Please use <em>theme.colors.bookmark_text</em>, this alias will be removed in Firefox 69.
+1553500441678	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["find"], be one of ["history"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["topSites"], be one of ["webRequest", "webRequestBlocking"], or be one of ["webNavigation"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["management"], be one of ["privacy"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1553500441679	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing version_name: An unexpected property was found in the WebExtension manifest.
+1553500441679	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1553500441682	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553500441682	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553500441682	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.images.headerURL: Please use <em>theme.images.theme_frame</em>, this alias will be removed in Firefox 69.
+1553500442084	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553500442084	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553500442084	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.images.headerURL: Please use <em>theme.images.theme_frame</em>, this alias will be removed in Firefox 69.
+1553500442089	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["find"], be one of ["history"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["topSites"], be one of ["webRequest", "webRequestBlocking"], or be one of ["webNavigation"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["management"], be one of ["privacy"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1553500442090	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing version_name: An unexpected property was found in the WebExtension manifest.
+1553500442090	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1553500445393	Marionette	INFO	Listening on port 59971
+1553500445600	Marionette	WARN	TLS certificate errors will be ignored for this session
+WebGL(2AE25000)::ForceLoseContext
+WebGL(2AE27800)::ForceLoseContext
+1553500453338	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1553500576318	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loudDD\\AppData\\Local\\Temp\\rust_mozprofile.Akx4cNHUisxm"
+1553500577946	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553500577947	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553500577947	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.toolbar_text: Please use <em>theme.colors.bookmark_text</em>, this alias will be removed in Firefox 69.
+1553500577990	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["find"], be one of ["history"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["topSites"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["management"], be one of ["privacy"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1553500577991	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing version_name: An unexpected property was found in the WebExtension manifest.
+1553500577991	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1553500578102	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553500578102	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553500578103	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.images.headerURL: Please use <em>theme.images.theme_frame</em>, this alias will be removed in Firefox 69.
+1553500578124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553500578124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553500578124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553500578195	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553500578195	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553500578195	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.toolbar_text: Please use <em>theme.colors.bookmark_text</em>, this alias will be removed in Firefox 69.
+1553500578201	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["find"], be one of ["history"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["topSites"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["management"], be one of ["privacy"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1553500578202	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing version_name: An unexpected property was found in the WebExtension manifest.
+1553500578202	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1553500578202	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553500578203	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553500578203	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.images.headerURL: Please use <em>theme.images.theme_frame</em>, this alias will be removed in Firefox 69.
+1553500578503	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553500578503	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553500578503	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.images.headerURL: Please use <em>theme.images.theme_frame</em>, this alias will be removed in Firefox 69.
+1553500578516	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["find"], be one of ["history"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["topSites"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["management"], be one of ["privacy"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1553500578517	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing version_name: An unexpected property was found in the WebExtension manifest.
+1553500578517	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1553500579713	Marionette	INFO	Listening on port 60203
+1553500580247	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+WebGL(2F21D800)::ForceLoseContext
+WebGL(2F21E800)::ForceLoseContext
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+WebGL(24060C00)::ForceLoseContext
+WebGL(24061800)::ForceLoseContext
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Child 24996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 248[00, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chi[Parent 16056, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1553500613048	Marionette	INFO	Stopped listening on port 60203
+[GPU 2
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+5992, Chrome
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553500973938	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loudDD\\AppData\\Local\\Temp\\rust_mozprofile.UkbWUslJIIx6"
+1553500975794	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553500975795	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553500975796	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.toolbar_text: Please use <em>theme.colors.bookmark_text</em>, this alias will be removed in Firefox 69.
+1553500975844	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["find"], be one of ["history"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["topSites"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["management"], be one of ["privacy"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1553500975844	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing version_name: An unexpected property was found in the WebExtension manifest.
+1553500975845	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1553500975969	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553500975969	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553500975970	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.images.headerURL: Please use <em>theme.images.theme_frame</em>, this alias will be removed in Firefox 69.
+1553500975993	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553500975993	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553500975994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553500976110	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553500976110	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553500976110	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.toolbar_text: Please use <em>theme.colors.bookmark_text</em>, this alias will be removed in Firefox 69.
+1553500976118	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["find"], be one of ["history"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["topSites"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["management"], be one of ["privacy"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1553500976119	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing version_name: An unexpected property was found in the WebExtension manifest.
+1553500976119	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1553500976120	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553500976120	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553500976120	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing theme.images.headerURL: Please use <em>theme.images.theme_frame</em>, this alias will be removed in Firefox 69.
+1553500976500	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.colors.accentcolor: Please use <em>theme.colors.frame</em>, this alias will be removed in Firefox 69.
+1553500976500	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.colors.textcolor: Please use <em>theme.colors.tab_background_text</em>, this alias will be removed in Firefox 69.
+1553500976501	addons.webextension.{a52d8854-4831-4a49-b621-7464a3291692}	WARN	Loading extension '{a52d8854-4831-4a49-b621-7464a3291692}': Reading manifest: Error processing theme.images.headerURL: Please use <em>theme.images.theme_frame</em>, this alias will be removed in Firefox 69.
+1553500976519	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["find"], be one of ["history"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["topSites"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["management"], be one of ["privacy"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1553500976520	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing version_name: An unexpected property was found in the WebExtension manifest.
+1553500976520	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1553500979872	Marionette	INFO	Listening on port 60764
+1553500980236	Marionette	WARN	TLS certificate errors will be ignored for this session
+WebGL(2A129000)::ForceLoseContext
+WebGL(2A12A000)::ForceLoseContext
+1553500987905	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Child 20000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2[Child 27760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 27760, Chrome_ChildThread] W1553501192845	Marionette	INFO	Stopped listening on port 60764
+[GPU 20624, Chrome_ChildThread]
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553501109639	Marionette	INFO	Listening on port 61011
+1553501109695	Marionette	WARN	TLS certificate errors will be ignored for this session
+WebGL(19E16000)::ForceLoseContext
+WebGL(19E17400)::ForceLoseContext
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 20608, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src[/Cchhirld 14808o,m e/common/ipc_chaCnhronel_win.cc, line 332
+[Child 1me_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14808, C[Parent 20608, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 131553501192848	Marionette	INFO	Stopped listening on port 61011
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 11764, Chrome_ChildThread] WARNI
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553501198273	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loudDD\\AppData\\Local\\Temp\\rust_mozprofile.fAfuRL2Tdvnv"
+1553501199783	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553501199783	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553501199783	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553501201403	Marionette	INFO	Listening on port 61187
+1553501201516	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vip.svocloud.com/polyfills.f9d66310deb7ab715bcd.bundle.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+[Child 26800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src2[Child 2680[Child 17960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11553501203797	Marionette	INFO	Stopped listening on port 61187
+[GPU
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ 24904, Chrome_ChildThread] WA
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553501470861	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loudDD\\AppData\\Local\\Temp\\rust_mozprofile.eBnp03rQ8OXi"
+1553501471369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553501471370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553501471370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553501472700	Marionette	INFO	Listening on port 61415
+1553501472975	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 27452, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 27452, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_w[iChild 520n.cc, line 332
+0, C[hChirome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5200[Parent 27452, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1553501483978	Marionette	INFO	Stopped listening on port 61415
+[GPU 23236, Chrome_ChildTh
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1553502145562	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loudDD\\AppData\\Local\\Temp\\rust_mozprofile.WeRJaqo74Aaw"
+1553502150882	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553502150883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553502150883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553502157201	Marionette	INFO	Listening on port 61765
+1553502157656	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Child 24416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_[cChild 13652, Chrome_ChildThread] WARNING: pipe error: 109h: file z:/build/build/src/ipc/chromium/src/chroannelm_ewin./common/ipc_chacncnel_w,i ln.cc,i nlei n3e3 23
+32
+[C[hCild [Parent 24876, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1553502588023	Marionette	INFO	Stopped listening on port 61765
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 2884, Chrome_ChildThread] WARNING: pipe error: 109: file
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

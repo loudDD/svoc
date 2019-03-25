@@ -1,0 +1,23 @@
+{
+  "Loginin": {
+    "userlocator" : ["css","[formcontrolname='username']"],
+    "pwdlocator"  : ["css","[formcontrolname='password']"],
+    "loginlocator": ["css","button"]},
+  "forgetpwd":{
+    "button": ["link_text","忘记密码"],
+    "accoutinput": ["name","account"],
+    "verinput": ["id","Code"]
+            },
+  "Signin": {
+    "signinbutton" : ["link_text","立即注册"],
+    "accountinput" : ["css",".ng-dirty:nth-child(2)"],
+    "pwdinput" : ["css",".pw-group > .form-control"],
+    "phoneinput" : ["css",",[formcontrolname='mobile']"],
+    "vericodeinput" : ["css",",[maxlength='6']"],
+    "siginbutton" : ["class","btn btn-svoc login-btn"]
+  },
+  "joinmeetingAna": {
+    "joinmeetingButton": ["link_text","加入会议"],
+    "meetingnumber": ["id","conference-alias"],
+    "connectionButton": ["css",".alert-actions > div > .btn"]}
+}
