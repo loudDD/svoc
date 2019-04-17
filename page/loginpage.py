@@ -15,7 +15,7 @@ class LoginPage(POM):
     TODO:登录页其他功能
     """
 
-    with open(r"C:\Users\loudDD\GitProject\svoc\svoc\Locator\locator.json", "r", encoding="utf-8") as f:
+    with open(r"C:\Users\loudDD\GitProject\svoc\svoc\Locator\loginpage.json", "r", encoding="utf-8") as f:
         # login
         userlocator = f["Loginin"]["userlocator"]
         pwdlocator = f["Loginin"]["pwdlocator"]

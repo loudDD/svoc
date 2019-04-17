@@ -24,6 +24,13 @@
       "userinfo" : ["xpath","//li[3]/a/span"]
             },
   "Pripage": {
-
+      "startmeeting": ["xpath","//nav/ul/li[2]/a"],
+      "attendmeeting" : ["css","li:nth-child(3) .hidden-xs"],
+      "live" : ["css",".nav > li:nth-child(4) > a"],
+      "meetingschedule" : ["css","li:nth-child(6) .hidden-xs"],
+      "privateroom" : ["css","li:nth-child(7) .hidden-xs"],
+      "previousmeeting" : ["css","li:nth-child(8) .hidden-xs"],
+      "recordinglist" : ["css","li:nth-child(9) .hidden-xs"],
+      "addressbook" : ["css","li:nth-child(11) .hidden-xs"]
             }
 }
